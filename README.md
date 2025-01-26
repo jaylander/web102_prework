@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/4dpvDAC.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Video Walkthrough](https://i.imgur.com/4dpvDAC.gif "Video Walkthrough")
 
 <!-- Replace this with whatever GIF tool you used! -->
 
