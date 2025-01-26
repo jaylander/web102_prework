@@ -23,11 +23,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/4dpvDAC.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with ...ScreenToGif
+GIF created with ScreenToGif
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
@@ -38,9 +38,11 @@ GIF created with ...ScreenToGif
 
 Describe any challenges encountered while building the app.
 
+A Challenge I faced was understanding how ".filter()" works. After looking at the example and reading the documentation, I have a better understanding on how it works.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Jamal Lander
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
